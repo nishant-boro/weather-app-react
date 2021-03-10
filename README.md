@@ -1,8 +1,8 @@
 ## Important steps:
 
-Get the API keys from the following sites: [Open Cage] (https://opencagedata.com/api) and [Open Weather](https://openweathermap.org/api) \
+Get the API keys from the following sites: [Open Cage](https://opencagedata.com/api) and [Open Weather](https://openweathermap.org/api)
 
-Open the file: 'components/DailyWeather.js' and put your Open Cage API key into the 'GET_LAT_LONG_API_KEY' variable and Open Weather API Key into 'API_KEY' variable \
+Open the file: 'components/DailyWeather.js' and put your Open Cage API key into the 'GET_LAT_LONG_API_KEY' variable and Open Weather API Key into 'API_KEY' variable
 
 # Getting Started with Create React App
 
